@@ -1,0 +1,62 @@
+/* Menu-container CSS */
+.menu-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.menu-child-container {
+  padding-top: 5em;
+  padding-bottom: 1em;
+}
+
+.menu-heading {
+  font-size: 4em;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.letters {
+  border-radius: 50%;
+}
+
+.hangman-image-container {
+  padding-top: 5em;
+  padding-bottom: 5em;
+}
+
+.hangman-image-menu {
+  border-radius: 4em;
+  margin-bottom: 5em;
+}
+
+/* Footer CSS */
+.footer-container {
+  padding-top: 3.6em;
+}
+
+.github-row {
+  padding-top: 2em;
+  padding-bottom: 1em;
+}
+
+.github-icon {
+  transition: transform 1s ease-in-out;
+  color: dodgerblue;
+}
+
+.github-icon:hover {
+  color: rgb(180, 180, 230);
+  transform: rotateX(360deg);
+}
+
+.start-button-styling {
+  background-color: dodgerblue !important;
+}
+
+.start-button-styling:hover {
+  background-color: rgb(180, 180, 230) !important;
+}

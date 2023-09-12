@@ -1,0 +1,32 @@
+.help-container {
+  background-color: rgb(43, 200, 200);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.help-child-container {
+  padding: 2em;
+}
+
+.help-heading {
+  color: white;
+  font-weight: bold;
+  font-size: 3rem;
+  text-decoration: underline lightblue;
+  padding-bottom: 1em;
+  text-align: center;
+}
+
+.help-h2 {
+  color: white;
+}
+
+.help-paraG,
+.help-li {
+  color: white;
+  line-height: 2em;
+}
+
+.help-rows {
+  padding-bottom: 2em;
+}

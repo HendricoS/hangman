@@ -1,0 +1,28 @@
+.footer-container {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.copyright {
+  font-weight: bold;
+  color: dodgerblue;
+  font-size: 1rem;
+}
+
+.footer-links {
+  font-weight: bold;
+  color: dodgerblue;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+.free-dictionary {
+  text-decoration: none;
+  color: white;
+}
+
+.free-dictionary:hover {
+  text-decoration: none;
+  color: dodgerblue;
+}

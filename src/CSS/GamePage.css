@@ -1,0 +1,14 @@
+.game-page-child-container {
+  padding-top: 1.5em;
+}
+
+.game-reset-button,
+.game-home-button {
+  font-weight: bold !important;
+  padding: 0.5em 1.5em;
+}
+
+.game-reset-button:hover,
+.game-home-button:hover {
+  background-color: rgb(180, 180, 230) !important;
+}
